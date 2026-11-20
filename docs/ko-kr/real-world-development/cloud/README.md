@@ -1,6 +1,6 @@
 ---
 slug: ko-kr/real-world-development/cloud
-title: "GitHub Copilot cloud agent"
+title: "GitHub Copilot 클라우드 에이전트"
 authors:
   - geektrainer
 lastUpdated: 2026-06-30
